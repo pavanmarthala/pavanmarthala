@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @pavanmarthala<br>👀 I’m interested in ...<br>🌱 I’m currently learning ...<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
-
+👋 Hi, I’m Pavan Marthala!<br>
+👀 I’m interested in software development, cloud computing, and DevOps practices. I'm always eager to explore new technologies and improve my skills in full-stack development.<br>
+🌱 I’m currently learning advanced cloud architecture and microservices design to enhance my backend development capabilities.<br>
+💞️ I’m looking to collaborate on open-source projects, especially those that involve Flutter, Spring Boot, and cloud platforms like AWS and Firebase.<br>
+📫 How to reach me: Feel free to connect with me on LinkedIn or follow my updates on Instagram.<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan_marthala_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-marthala36)
